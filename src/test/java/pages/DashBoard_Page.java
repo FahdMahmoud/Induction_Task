@@ -1,8 +1,8 @@
-package Pages;
+package pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import static Step_Definations.Setup.driver;
+import static step_Defintions.Setup.driver;
 
 
 public class DashBoard_Page {
